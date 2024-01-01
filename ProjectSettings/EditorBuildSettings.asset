@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Samples/P2-CatchMe/Scene/CatchMeIfYouCan.unity
+    guid: e4cf908bf4d6dc84bafe3bf7a6a673d8
   m_configObjects: {}
